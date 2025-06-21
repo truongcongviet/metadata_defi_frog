@@ -1,0 +1,11 @@
+{
+    "name": "DEFIDOG#0",
+    "description": "This is Defi dog NFT ",
+    "image": "http://test.com/0",
+    "attributes": [
+        {
+            "trait_type": "trait1_Name",
+            "value": "Velok Starbreeze"
+        }
+    ]
+}

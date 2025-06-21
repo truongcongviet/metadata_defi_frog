@@ -1,0 +1,11 @@
+{
+    "name": "DEFIDOG#77",
+    "description": "This is Defi dog NFT ",
+    "image": "http://test.com/77",
+    "attributes": [
+        {
+            "trait_type": "trait1_Name",
+            "value": "Earth Sage"
+        }
+    ]
+}
